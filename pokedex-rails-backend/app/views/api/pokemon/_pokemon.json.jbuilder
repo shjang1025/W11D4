@@ -1,0 +1,1 @@
+json.extract! pokemon, :id, :number, :name, :attack, :defense, :captured, :created_at, :updated_at
